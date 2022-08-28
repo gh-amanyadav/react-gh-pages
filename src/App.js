@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Hi <code>This is a workshop</code> on deploying a react application to github.
         </p>
         <a
           className="App-link"
